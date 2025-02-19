@@ -1,4 +1,4 @@
-# High-Energy Particle Classification with Graph Neural Networks
+# [High-Energy Particle Classification with Graph Neural Networks](https://www.biendata.xyz/competition/jet/)
 
 # Minimum recommended environment specs
 OS: Ubuntu 18.04 
